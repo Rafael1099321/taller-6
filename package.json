@@ -1,0 +1,8 @@
+{
+  "name": "aerolinea-api",
+  "version": "1.0.0",
+  "description": "Taller Guia 6 SENA - Modularizacion backend (Routes, Controllers, Services, Models)",
+  "main": "src/app.js",
+  "scripts": { "start": "node src/app.js", "dev": "node --watch src/app.js" },
+  "dependencies": { "express": "^4.21.0" }
+}

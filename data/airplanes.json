@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "modelo": "A320",
+    "matricula": "HK-4500",
+    "capacidadMaxima": 180,
+    "fabricante": "Airbus"
+  },
+  {
+    "id": 2,
+    "modelo": "Boeing 737",
+    "matricula": "HK-4501",
+    "capacidadMaxima": 160,
+    "fabricante": "Boeing"
+  }
+]

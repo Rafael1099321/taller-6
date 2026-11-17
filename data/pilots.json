@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana Ruiz",
+    "licencia": "ATP-001",
+    "horasVuelo": 3200,
+    "estado": "activo"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Pérez",
+    "licencia": "ATP-002",
+    "horasVuelo": 5400,
+    "estado": "activo"
+  }
+]
